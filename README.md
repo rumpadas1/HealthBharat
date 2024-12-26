@@ -13,7 +13,7 @@ Health Bharat is a web-based platform transforming medical consultations. It con
 
 ![HealthBharat Page](https://github.com/rumpadas1/HealthBharat/blob/main/Screenshot%20(358).png)
 
-## Successfull appointment booking message
+## Successful appointment booking message
 
 ![HealthBharat Page](https://github.com/rumpadas1/HealthBharat/blob/main/Screenshot%20(359).png)
 
