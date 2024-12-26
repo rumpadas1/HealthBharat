@@ -16,6 +16,7 @@ Health Bharat: Revolutionizing Healthcare Access in India Health Bharat is a web
 
 ## Workflow
 
+### Booking an Appointment
 1. **Select Department on the Homepage**:  
    - Click on a department to view options for selecting a specific department.
    - Once a department is selected, a list of doctors specific to that department is displayed.
@@ -37,6 +38,17 @@ Health Bharat: Revolutionizing Healthcare Access in India Health Bharat is a web
      Your appointment has been booked successfully.
      ```
 
+### Checking Doctor Fees
+1. **Select Department on the Homepage**:  
+   - Click on a department to view options for selecting a specific department.
+   - Once a department is selected, a list of doctors specific to that department is displayed.
+
+2. **Select a Doctor**:  
+   - Choose a doctor from the available options.
+
+3. **Check Fees**:  
+   - Click on the **Check Fee** button to view the consultation fee for the selected doctor.
+
 ---
 
 ## Technology Stack
@@ -54,6 +66,6 @@ Health Bharat: Revolutionizing Healthcare Access in India Health Bharat is a web
 ## Usage
 
 1. Open the **Home Page** (`health.php`) to explore the platform.
-2. Select a department, choose a doctor, and proceed to book an appointment.
+2. Select a department, choose a doctor, and proceed to book an appointment or check fees.
 3. Fill in your details on the **Sign-In Page** (`signin.php`) to confirm your appointment.
-4. A success message will confirm your booking.
+4. A success message will confirm your booking or display the selected doctor's fee.
