@@ -5,11 +5,29 @@ Health Bharat: Revolutionizing Healthcare Access in India
 Health Bharat is a web-based platform transforming medical consultations. It connects patients with doctors across specialties, offering features like department navigation, a user-friendly Sign-In page, and easy appointment booking. The project leverages **HTML**, **CSS**, **JavaScript**, and **PHP** to deliver a dynamic and user-friendly experience.
 
 ---
-## Website
+## Website Home page
 
-![HealthBharat Home Page](https://github.com/rumpadas1/HealthBharat/blob/main/Screenshot%20(356).png)
+![HealthBharat Page](https://github.com/rumpadas1/HealthBharat/blob/main/Screenshot%20(356).png)
+
+## Sign-In page
+
+![HealthBharat Page](https://github.com/rumpadas1/HealthBharat/blob/main/Screenshot%20(358).png)
+
+## Contact Us page
+
+![HealthBharat Page](https://github.com/rumpadas1/HealthBharat/blob/main/Screenshot%20(362).png)
+
+## Services page
+
+![HealthBharat Page](https://github.com/rumpadas1/HealthBharat/blob/main/Screenshot%20(360).png)
+
+## About page
+
+![HealthBharat Page](https://github.com/rumpadas1/HealthBharat/blob/main/Screenshot%20(359).png)
+
 
 ---
+
 ## Features
 
 - **Home Page (`health.php`)**: Provides an overview of the platform and its offerings.
