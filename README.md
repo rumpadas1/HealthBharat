@@ -7,7 +7,7 @@ Health Bharat is a web-based platform transforming medical consultations. It con
 ---
 ## Screenshot
 
-![Website Screenshot](screenshot(356.png)
+![HealthBharat Home Page]((https://github.com/rumpadas1/HealthBharat/blob/main/Screenshot%20(356).png))
 
 ---
 ## Features
